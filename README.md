@@ -3,18 +3,16 @@
 Streamline your retail cash management with Change Order Pro!
 
 ## Features:
-
-Safe inventory tracking
-Multiple till management
-Automated change calculations
-Roll-based ordering
+- Safe inventory tracking<br />
+- Multiple till management<br />
+- Automated change calculations<br />
+- Roll-based ordering
 
 ## Professional reporting perfect for:
-
-Retail stores
-Restaurants
-Gas stations
-Any cash-handling business
+- Retail stores<br />
+- Restaurants<br />
+- Gas stations<br />
+- Any cash-handling business<br />
 
 Save time and eliminate errors with professional change order management.<br /><br />
 Created by <a href="https://euphoria-design.com/">Euphoria Design</a>.
