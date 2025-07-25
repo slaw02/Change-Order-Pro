@@ -1,7 +1,7 @@
 # CUSTOM PROPRIETARY LICENSE AGREEMENT
 Last Updated: 07.24.2025<br />
 
-## IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE.
+IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE.
 
 This Proprietary License Agreement (“Agreement”) is a legal agreement between you (“User”) and Euphoria Design (“Licensor”), governing your use of the mobile application Change Order Pro (“Software”). By purchasing, downloading, installing, or using this Software, you agree to the terms of this Agreement.
 
