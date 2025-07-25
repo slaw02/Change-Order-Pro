@@ -1,7 +1,7 @@
 # Intro
 Change Order Pro<br />
 <a href="https://slaw02.github.io/Change-Order-Pro/">https://slaw02.github.io/Change-Order-Pro/</a><br /><br />
-Streamline your retail cash management with Change Order Pro!<br />
+Streamline your retail cash management with Change Order Pro!<br /><br />
 Features:
 <ul>
 <li>Safe inventory tracking</li>
