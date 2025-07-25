@@ -9,7 +9,7 @@ Features:
 <li>Automated change calculations</li>
 <li>Roll-based ordering</li>
 </ul>
-Professional reporting perfect for:<br /><br />
+Professional reporting perfect for:
 <ul>
 <li>Retail stores</li>
 <li>Restaurants</li>
